@@ -4,7 +4,7 @@ Customizing Rows of Blazor Data Grid Using Templates
 
 ## Overview
 
-This sample demonstrates how to customize the appearance of records in the Syncfusion Blazor DataGrid by using a Row Template. Instead of displaying data using the default row rendering behavior, the DataGrid renders each row through a customized template that allows rich layouts, custom styling, images, and additional business information to be displayed within a single row. This approach is useful when creating card-like row presentations, employee directories, product catalogs, customer profiles, or other scenarios that require enhanced visual representation beyond standard tabular cells.
+This sample demonstrates how to customize the appearance of records in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) by using a Row Template. Instead of displaying data using the default row rendering behavior, the DataGrid renders each row through a customized template that allows rich layouts, custom styling, images, and additional business information to be displayed within a single row. This approach is useful when creating card-like row presentations, employee directories, product catalogs, customer profiles, or other scenarios that require enhanced visual representation beyond standard tabular cells.
 
 ## Key Features
 
