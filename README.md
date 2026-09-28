@@ -1,6 +1,4 @@
-# Title
-
-Customizing Rows of Blazor Data Grid Using Templates
+# Customizing Rows of Blazor Data Grid Using Templates
 
 ## Overview
 
